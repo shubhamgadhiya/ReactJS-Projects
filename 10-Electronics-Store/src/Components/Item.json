@@ -1,0 +1,164 @@
+ [
+    {
+        "category": "Mobile",
+        "company": "Samsung",
+        "name": "Samsung S24",
+        "image": "images/Mobile/Samsung-S24.webp",
+        "price": "80000₹",
+        "description": "Samsung S24 Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Samsung",
+        "name": "Samsung S24-Ultra",
+        "image": "images/Mobile/Samsung-S24-Ultra.webp",
+        "price": "120000₹",
+        "description": "Samsung S24 Ultra Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Iphone",
+        "name": "Iphone 16",
+        "image": "images/Mobile/Iphone-16.webp",
+        "price": "85000₹",
+        "description": "Iphone 16 Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Iphone",
+        "name": "Iphone 16 Pro",
+        "image": "images/Mobile/iPHONE16-Pro.webp",
+        "price": "130000₹",
+        "description": "Iphone 16 Pro Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Oneplus",
+        "name": "Oneplus 12",
+        "image": "images/Mobile/Oneplus-12.webp",
+        "price": "40000₹",
+        "description": "Oneplus 12 Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Oneplus",
+        "name": "Oneplus-12R",
+        "image": "images/Mobile/Oneplus-12R.webp",
+        "price": "50000₹",
+        "description": "Oneplus 12R Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Vivo",
+        "name": "Vivo V30",
+        "image": "images/Mobile/Vivo-V30.webp",
+        "price": "30000₹",
+        "description": "Vivo V30 Phone"
+      },
+      {
+        "category": "Mobile",
+        "company": "Vivo",
+        "name": "Vivo V40",
+        "image": "images/Mobile/Vivo-V40.webp",
+        "price": "35000₹",
+        "description": "Vivo 40 Phone"
+      },
+
+      {
+        "category": "Laptop",
+        "company": "HP",
+        "name": "HP Pavilion",
+        "image": "images/Laptop/HP-Pavilion.webp",
+        "price": "70000₹",
+        "description": "HP Pavilion Core i5-13th Gen, 8GB RAM, 512GB SSD, 14-inch FHD Touchscreen Laptop"
+      },
+      {
+        "category": "Laptop",
+        "company": "HP",
+        "name": "HP Victus",
+        "image": "images/Laptop/HP-Victus.webp",
+        "price": "60000₹",
+        "description": "HP Victus Gaming Core i5-12th Gen, 8GB RAM, 512GB SSD, 14-inch FHD Touchscreen Laptop"
+      },
+        {
+            "category": "Laptop",
+            "company": "Dell",
+            "name": "Dell Inspiron",
+            "image": "images/Laptop/Dell-Inspiron.webp",
+            "price": "90000₹",
+            "description": "Dell Inspiron core i7-14th Gen, 16GB RAM, 1TB SSD, 14-inch FHD Touchscreen Laptop"
+        },
+        {
+            "category": "Laptop",
+            "company": "Dell",
+            "name": "Dell Latitude",
+            "image": "images/Laptop/Dell-Latitude.webp",
+            "price": "55000₹",
+            "description": "Dell Latitude core i5-13th Gen, 8GB RAM, 512GB SSD, 14-inch FHD Touchscreen Laptop"
+        },
+        {
+            "category": "Laptop",
+            "company": "Lenovo",
+            "name": "Lenovo Thinkbook",
+            "image": "images/Laptop/Lenovo-Thinkbook.webp",
+            "price": "35000₹",
+            "description": "Lenovo Thinkbook core i3-12th Gen, 8GB RAM, 512GB SSD, 14-inch FHD Touchscreen Laptop"
+        },
+        {
+            "category": "Laptop",
+            "company": "Lenovo",
+            "name": "Lenovo Ideapad",
+            "image": "images/Laptop/Lenovo-Ideapad.webp",
+            "price": "50000₹",
+            "description": "Lenovo Ideapad core i5-13th Gen, 8GB RAM, 512GB SSD, 14-inch FHD Touchscreen Laptop"
+        },
+        {
+            "category": "Laptop",
+            "company": "Apple",
+            "name": "Apple Macbook M2",
+            "image": "images/Laptop/Apple-M3.webp",
+            "price": "95000₹",
+            "description": "Apple Macbook M3 Chip 13.6 inch 8GB RAM 256GB SSD Laptop"
+        },
+        {
+            "category": "Laptop",
+            "company": "Apple",
+            "name": "Apple Macbook M3 Pro",
+            "image": "images/Laptop/Apple-M3-Pro.webp",
+            "price": "120000₹",
+            "description": "Apple Macbook M3 Pro Chip 14 inch 16GB RAM 512GB SSD Laptop"
+        },
+        {
+            "category": "Tv",
+            "company": "Sony",
+            "name": "Sony Bravia",
+            "image": "images/TV/Sony-Bravia.webp",
+            "price": "150000₹",
+            "description": "Sony Bravia 40 inch Ultra HD Smart LED TV"
+        },
+        {
+            "category": "Tv",
+            "company": "Sony",
+            "name": "Sony Bravia 2",
+            "image": "images/TV/Sony-Bravia-2.webp",
+            "price": "180000₹",
+            "description": "Sony Bravia 2 43 inch 4k Ultra HD Smart LED TV"
+        },
+        {
+            "category": "Tv",
+            "company": "LG",
+            "name": "LG Smart",
+            "image": "images/TV/LG-Smart.webp",
+            "price": "80000₹",
+            "description": "LG Smart 32 inch HD Ready LED Smart TV"
+        },
+        {
+            "category": "Tv",
+            "company": "LG",
+            "name": "LG UHD",
+            "image": "images/TV/LG-UHD.webp",
+            "price": "200000₹",
+            "description": "LG UHD 55 inch 4k Ultra HD Smart LED TV"
+        }
+     
+]
